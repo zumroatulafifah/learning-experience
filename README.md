@@ -9,4 +9,4 @@ Belajar Analisis Data dengan Python
 * Belajar tentang Data Wrangling.
 * Belajar tentang Explonatory dan Explanatory Data Analysis.
 * Mengerjakan Projek Akhir untuk melatih kemahiran diri.
-
+* Dan berhasil lulus, Alhamdulilah ehehe.
